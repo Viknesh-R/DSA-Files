@@ -1,1 +1,1 @@
-Codes written as part of Programnming and Data Structures @ IIITDM Kancheepuram (2019)
+Codes written as part of Programnming and Data Structures Lab @ IIITDM Kancheepuram (2019)
